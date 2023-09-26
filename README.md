@@ -1,34 +1,32 @@
  <img src="https://lh3.googleusercontent.com/d/1itTuDTkuBkfMYuRh6MAScV3nxFVGbpmo" width="100" height="100" style="display: block; margin: 0 auto;">
 
-# Lambda
-Lambda is a static html portfolio template build with bootstrap, jQuery and designed for any restaurant website. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations with all weather update.
+# Graphql to TS
+A tool for easily transform GraphQL schemas into TypeScript interfaces with this user-friendly website. Simplify your development process, save time, and ensure type safety effortlessly. Experience seamless integration for smoother coding with our GraphQL to TypeScript converter.
 
 ## Live demo
-https://lambda.cabbageweb.com/
+https://graphql.siamahnaf.com/
 
 ## Run Locally
-To unlock the wonders of this project, simply follow these steps:
-- **Download:** Click the "Download" button or clone this repository to your local machine.
-- **Open the Portal:** Locate the `index.html` file in the project's root directory.
-- **Enter the Realm:** Launch your favorite web browser and open the `index.html` file to embark on your journey.
+- **Download:** Start by downloading the code.
+- **Install Dependencies:** Run `npm i` to install the necessary dependencies.
+- **Launch:** Launch your development environment with `npm run dev`.
+- **Access:** Simply open your web browser and navigate to `localhost:3000`.
 
 ## Key features
-- Created with bootstrap & jQuery
-- Specially designed for any restaurant website
-- Smooth transition animations
+- Created with NextJS and Tailwind css
+- Specially designed for converting any graphql schema to typescript interface
+- 100% accurate type conversion
 - Beautiful and interactive design
-- All necessary sections
+- A copy button for copying the converted interface
 
 ## Tech Toolset
-- HTML
-- CSS
-- jQuery
-- Bootstrap
+- Next.js
+- React.js
+- Tailwind css
   
-<img src="https://lh3.googleusercontent.com/d/1fHZqd2oOmHF82sAEd36U7fhtXMJfvaak" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1ji0clZMU2jhNMv2afsZkaBr9GEaw5ccv" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1qTuyY-0kfwLSj3kul8grFXbAiuJZmkK9" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1jde700Dov47dOcx-796rFPRbu0kOsTeO" width="30px" height="30px" />
-
+<img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1lmIwVWT-LhcovOkCj4CF8paBGMeP9BNE" width="225px" height="30px" />
 ## Screenshot
-<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695749181/scrnli_9_26_2023_11-24-26_PM_osrzuk.jpg" width="100%" height="100%" style="display: block; margin: 0 auto;">
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695751079/scrnli_9_26_2023_11-57-48_PM_cbjwry.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
 Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
