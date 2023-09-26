@@ -20,12 +20,12 @@ https://graphql.siamahnaf.com/
 - A copy button for copying the converted interface
 
 ## Tech Toolset
-- Next.js
 - React.js
-- Tailwind css
 - Typescript
+- Next.js
+- Tailwind css
   
-<img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1lmIwVWT-LhcovOkCj4CF8paBGMeP9BNE" width="225px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1kPoywoLU5K4wbJyToKeB-zjVLgIHnkx6" width="30px" height="30px" />
+<img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1kPoywoLU5K4wbJyToKeB-zjVLgIHnkx6" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1lmIwVWT-LhcovOkCj4CF8paBGMeP9BNE" width="225px" height="30px" />
 
 ## Screenshot
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695751079/scrnli_9_26_2023_11-57-48_PM_cbjwry.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
