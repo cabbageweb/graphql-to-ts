@@ -1,38 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ <img src="https://lh3.googleusercontent.com/d/1itTuDTkuBkfMYuRh6MAScV3nxFVGbpmo" width="100" height="100" style="display: block; margin: 0 auto;">
 
-## Getting Started
+# Lambda
+Lambda is a static html portfolio template build with bootstrap, jQuery and designed for any restaurant website. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations with all weather update.
 
-First, run the development server:
+## Live demo
+https://lambda.cabbageweb.com/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Run Locally
+To unlock the wonders of this project, simply follow these steps:
+- **Download:** Click the "Download" button or clone this repository to your local machine.
+- **Open the Portal:** Locate the `index.html` file in the project's root directory.
+- **Enter the Realm:** Launch your favorite web browser and open the `index.html` file to embark on your journey.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key features
+- Created with bootstrap & jQuery
+- Specially designed for any restaurant website
+- Smooth transition animations
+- Beautiful and interactive design
+- All necessary sections
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Tech Toolset
+- HTML
+- CSS
+- jQuery
+- Bootstrap
+  
+<img src="https://lh3.googleusercontent.com/d/1fHZqd2oOmHF82sAEd36U7fhtXMJfvaak" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1ji0clZMU2jhNMv2afsZkaBr9GEaw5ccv" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1qTuyY-0kfwLSj3kul8grFXbAiuJZmkK9" width="30px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1jde700Dov47dOcx-796rFPRbu0kOsTeO" width="30px" height="30px" />
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Screenshot
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695749181/scrnli_9_26_2023_11-24-26_PM_osrzuk.jpg" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Support
+Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Authors
+- [www.cabbageweb.com](https://www.cabbageweb.com/)
+- [www.siamahnaf.com](https://www.siamahnaf.com/)
 
-## Learn More
+## Who we are?
+We are your go-to team for web application development. Whether it's creating beautiful frontends, robust backends, or ensuring smooth deployments, we've got you covered.
 
-To learn more about Next.js, take a look at the following resources:
+- **Frontend Development**
+Crafting stunning and responsive user interfaces is our forte. We ensure your web app not only looks great but also delivers an exceptional user experience.
+- **Backend Development**
+We build secure, scalable, and high-performance server-side solutions, tailored to your needs, ensuring your web app runs smoothly.
+- **Deployment Services**
+We handle server setup, configuration, and maintenance, ensuring your web app is deployed securely and efficiently.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Connect with us
+<div style="display: flex; align-items: center; gap: 3px;">
+<a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/cabbageweb/" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1hqME_Okrps0P1tKi18Rl66W7oa334daw" width="40" height="40"></a>
+<a href="https://twitter.com/cabbageweb" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1gCRI58aHh_TXF7uGOMu9F-E2eN4x6AyS" width="40" height="40"></a>
+<a href="https://www.facebook.com/cabbageweb/" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1gttW7FCHrt2fNCaVQXEYC_wUCYbOYpTJ" width="40" height="40"></a>
+<a href="https://t.me/siamahnaf198" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1v8rpDVzSc4GmXS8axq5y3fR1i-OnRRaY" width="40" height="40"></a>
+<a href="https://www.npmjs.com/org/cabbageweb" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1t6V2ZlSUyDhwgSaJ5CCj_wDxkQIYQKjR" width="40" height="40"></a>
+</div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+------------
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center" color="red"><a href="https://www.cabbageweb.com/">www.cabbageweb.com</a></p>
